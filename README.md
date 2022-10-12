@@ -1,24 +1,10 @@
-# google_oauth2_vue
+Vue_Google_OAuth2_Sample
+==========================
+2022년 기준 gsi로 변경된 google OAuth2.0을 적용한 Vue 프로젝트 샘플   
 
-## Project setup
+해당 샘플에 대한 자세한 정보는 [링크](https://4sii.tistory.com/62)에서 확인할 수 있다.
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
+// 클라이언트 ID를 변경한 후
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
